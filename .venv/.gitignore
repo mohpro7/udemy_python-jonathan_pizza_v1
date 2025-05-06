@@ -1,0 +1,23 @@
+# created by virtualenv automatically
+# Environnement virtuel
+.venv/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Dossiers IDE
+.idea/
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers sensibles
+.env
+
